@@ -14,11 +14,7 @@ a.navbar-brand{
     position: fixed;
     bottom: 0;
     width: 100%;
-}
 
-.footer-copyright{
-    color:white;
-    border-top: 5px solid rgb(81, 175, 160)
 }
 
 /* header styling*/
